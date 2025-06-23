@@ -1,0 +1,1 @@
+This repo contains the projects I worked on during my Deep Learning class. They projects cover a range of information, from the inner workings of neural networks to high-level implementation of neural networks with TensorFlow.
